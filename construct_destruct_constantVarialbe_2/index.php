@@ -5,9 +5,9 @@
 
 // অন্যান্য function এর মত Constructor এবং Destructor আলাদাভাবে call করতে হয়না 
 
-
-// construct মানে সবার আগে exicute আগে
-// destruct মানে সব code exicute হওয়ার পরে destruct function exicute হবে
+// construct অথবা destruct function  ব্যবহার করলে object এর মধ্যে echo ব্যবহার করা যাবে না 
+// construct অথবা destruct function  এর মধ্যে echo করতে হয় 
+// construct অথবা destruct function  এর মধ্যে $this keyword ব্যবহার করলে আরেকটা সাধারণ function নিয়ে সেটার মধ্যে return করতে হবে 
 
 
 
