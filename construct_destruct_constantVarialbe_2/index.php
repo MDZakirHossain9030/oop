@@ -70,7 +70,7 @@
     }
  }
 
- $zakir = new man("MD Zakir Hossain", 25);
+new man("MD Zakir Hossain", 25);
 
 
 
