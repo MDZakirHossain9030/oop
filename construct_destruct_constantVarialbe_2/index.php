@@ -3,11 +3,10 @@
 // todo: constructor & Destructor
 
 
-// অন্যান্য function এর মত Constructor এবং Destructor আলাদাভাবে call করতে হয়না 
 
-// construct অথবা destruct function  ব্যবহার করলে object এর মধ্যে echo ব্যবহার করা যাবে না 
-// construct অথবা destruct function  এর মধ্যে echo করতে হয় 
-// construct অথবা destruct function  এর মধ্যে $this keyword ব্যবহার করলে আরেকটা সাধারণ function নিয়ে সেটার মধ্যে return করতে হবে 
+// construct অথবা destruct function ব্যবহার করলে object এর মধ্যে echo ব্যবহার করা যাবে না 
+// construct অথবা destruct function এর ভেতরে echo করতে হয়, আর $this keyword ব্যবহার করলে আরেকটা সাধারণ function নিয়ে সেটার মধ্যে return করতে হবে 
+
 
 
 
