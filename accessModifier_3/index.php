@@ -6,7 +6,7 @@
 
 //public property (পাবলিক টয়লেটের মত) বাহির থেকে access করা যায় |
 //private property (ব্যক্তিগত ট্যলেটের মত) বাহির থেকে access করা যায় না |
-//protected property বাহির থেকে access করা যায় না কিন্তু এটার মাধ্যমে perent class এর কাজ child class এ আক্সেস করা যায়, কিন্তু perent class এর কাজ child class এ আক্সেস করতে না চাইলে perent class এর সামনে final keyword দিলে আর child class এ এক্সেস করা যাবে না |
+//protected property (সুরক্ষিত) বাহির থেকে access করা যায় না কিন্তু এটার মাধ্যমে perent class এর কাজ child class এ আক্সেস করা যায়, কিন্তু perent class এর কাজ child class এ আক্সেস করতে না চাইলে perent class এর সামনে final keyword দিলে আর child class এ এক্সেস করা যাবে না |
 
 
 
