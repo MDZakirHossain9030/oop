@@ -64,7 +64,7 @@ $object->info();//child class এর method এর নাম এখানে দ
 
 //  todo:  abstruction
 
-//  //todo: abstruct মানে hidden রাখা
+//  //todo: OOP-তে abstruct প্রধান কাজ হলো অপ্রয়োজনীয় বিবরণ লুকিয়ে রেখে জটিলতা কমানো এবং কেবল প্রয়োজনীয় তথ্য দেখানো। 
 //  //   abstruct বাহির থেকে access করা যায়না বাহির থেকে acces করতে চাইলে extends এর মাধ্যমে করতে হবে 
  
  
