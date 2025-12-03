@@ -1,6 +1,6 @@
 <?php
 
-//todo: inheritance, abstruct, interface & Trait
+//todo: inheritance, abstruct, interface & Trait এই গুলো হলো class এর নাম
 
 
 // todo: inheritance
