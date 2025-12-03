@@ -4,7 +4,6 @@
 
 
 // todo: inheritance
-//todo: inheritance & protected
 
 //way 1
 class perentClass{
