@@ -4,9 +4,6 @@
 
 
 // todo: inheritance
-
-// abstruct বাহির থেকে access করা যায়না বাহির থেকে acces করতে চাইলে extends এর মাধ্যমে করতে হবে 
-
 //todo: inheritance & protected
 
 //way 1
