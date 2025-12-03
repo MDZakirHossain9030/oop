@@ -3,7 +3,7 @@
 // todo: constructor & Destructor
 
 
-
+// constructor & Destructor এই দুইটা method বা function এর নাম
 // construct অথবা destruct function ব্যবহার করলে object এর মধ্যে echo ব্যবহার করা যাবে না 
 // construct অথবা destruct function এর ভেতরে echo করতে হয়, আর $this keyword ব্যবহার করলে আরেকটা সাধারণ function নিয়ে সেটার মধ্যে return করতে হবে 
 
