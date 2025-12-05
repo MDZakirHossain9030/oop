@@ -65,12 +65,10 @@ $object->info();//child class এর method এর নাম এখানে দ
  
  
  
-// //1>> abstruct বাহির থেকে access করা যায়না বাহির থেকে acces করতে চাইলে extends এর মাধ্যমে করতে হবে 
-// //2>> abstract class এর মধ্যে  abstruct method দিতে হবে এবং abstruct mehod টা child class ও দিতে হবে নাহলে এরর দেখাবে |  
-// //3>> abstruct class এবং method তৈরীর সময়  class & method নামের আগে শুধু abstract শব্দটি দিতে হয়
-// //4>> abstract class এর মধ্যে abstract method এর কোনো বডি থাকেনা but সাধারণ কোনো method থাকলে সেগোলোর বডি দিতে হবে |
-// //5>> abstract এর মাধ্যমে multipule class একটা class এর মধ্যে inherit করা সম্ভব না
-// //6>> abstract e method e public, private, protected নিতে পারব
+// //1>> abstruct class এবং method তৈরীর সময়  class & method নামের আগে শুধু abstract শব্দটি দিতে হয়, এটি abstract e method e public, private, protected নিতে পারব
+// //2>> একটা abstruct আরেকটা নরমাল class এর মধ্যে access করতে চাইলে extends এর মাধ্যমে করতে হবে, তবে ২টা abstruct class একটা নরমাল class এর মধ্যে access করা যাবে না 
+// //3>> abstract class এর মধ্যে  abstruct method দিতে হবে এবং abstruct mehod এর কোনো বডি নাই, তবে abstruct method টা নরমাল class ও দিতে হবে এবং বডি দিতে হবে |  
+
 
 
 
