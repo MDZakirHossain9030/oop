@@ -59,20 +59,11 @@ $object->info();//child class এর method এর নাম এখানে দ
 
 
 //  todo:  abstruction
-
 //  //todo: OOP-তে abstruct প্রধান কাজ হলো অপ্রয়োজনীয় বিবরণ লুকিয়ে রেখে জটিলতা কমানো এবং কেবল প্রয়োজনীয় তথ্য দেখানো। 
-//  //   abstruct বাহির থেকে access করা যায়না বাহির থেকে acces করতে চাইলে extends এর মাধ্যমে করতে হবে 
- 
- 
  
 // //1>> abstruct class এবং method তৈরীর সময়  class & method নামের আগে শুধু abstract শব্দটি দিতে হয়, এটি abstract e method e public, private, protected নিতে পারব
 // //2>> একটা abstruct আরেকটা নরমাল class এর মধ্যে access করতে চাইলে extends এর মাধ্যমে করতে হবে, তবে ২টা abstruct class একটা নরমাল class এর মধ্যে access করা যাবে না 
 // //3>> abstract class এর মধ্যে  abstruct method দিতে হবে এবং abstruct mehod এর কোনো বডি নাই, তবে abstruct method টা নরমাল class ও দিতে হবে এবং বডি দিতে হবে |  
-
-
-
-
-
 
 
 // abstract 
