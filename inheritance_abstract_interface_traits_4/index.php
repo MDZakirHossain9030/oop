@@ -114,15 +114,15 @@ $object->info();//child class এর method এর নাম এখানে দ
 
 
 
+// //1>> abstruct class এবং method তৈরীর সময়  class & method নামের আগে শুধু abstract শব্দটি দিতে হয়, এটি abstract e method e public, private, protected নিতে পারব
+// //2>> একটা abstruct আরেকটা নরমাল class এর মধ্যে access করতে চাইলে extends এর মাধ্যমে করতে হবে, তবে ২টা abstruct class একটা নরমাল class এর মধ্যে access করা যাবে না 
+// //3>> abstract class এর মধ্যে  abstruct method দিতে হবে এবং abstruct mehod এর কোনো বডি নাই, তবে abstruct method টা নরমাল class ও দিতে হবে এবং বডি দিতে হবে |  
 
 
 //todo: interface
+//1>> interface class এর মধে class শব্দটির পরিবর্তে interface লেখতে হয়, ২টা interface class একটা নরমাল class এর মধ্যে access করা যায় (এটা extends শব্দটির পরিবর্তে implements ব্যবহার করতে হয়
+//2>> abstract e method e public, private, protected নিতে পারব but interface er moddhe শুধু public method নিতে হবে
 
-//1>> ইন্টারফেস ক্লাস extends (ইনহেরিট) এবং instantiate করা যায়না বরং (চাইল্ড ক্লাসে) implements করা যায় 
-//2>> ইন্টারফেস ক্লাস অন্যান্য ক্লাসের মতই লিখতে হয়,এখানে class শব্দের পরিবর্তে interface শব্দ ব্যবহৃত হয়।
-//3>> abstract class আর interface class হুবহু একই শুধু পার্থক্য হচ্ছে এবস্ট্রাক্ট ক্লাসে এবস্ট্রাক্ট মেথড ছাড়াও অন্য মেথড থাকতে পারে এবং এই মেথডের ভিতর কোড থাকতে পারে (সাধারনত এটাকে মেথড বডি বলে) আর ইন্টারফেস ক্লাসে কোন মেথডে বডি থাকতে পারবেনা।
-//4>> abstract e method e public, private, protected নিতে পারব but interface er moddhe শুধু public method নিতে হবে
-//5>> abstract এর মাধ্যমে multipule class একটা class এর মধ্যে inherit করা সম্ভব না কিন্তু interface দিয়ে multipule class একটি class এর মধ্যে inherit করা সম্ভব
 
 
 
