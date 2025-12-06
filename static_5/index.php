@@ -1,8 +1,12 @@
 <?php
 
 // static 
+/*
+** static এর কাজ হলো কোনো object create না করেই সরাসরি ক্লাস থেকে কোনো মেথড (method) বা ভেরিয়েবল (variable) অ্যাক্সেস করা/ 
+এর ফলে, মেমোরি সাশ্রয় হয় এবং ক্লাস-লেভেলের এমন ফাংশনালিটি তৈরি করা যায় যা নির্দিষ্ট কোনো অবজেক্টের উপর নির্ভরশীল নয়, 
+বরং পুরো ক্লাসটির জন্য প্রযোজ্য (যেমন ইউটিলিটি ফাংশন বা কনস্ট্যান্ট)। 
+*/
 
-// static mane kono object create na kore access korte caile 
 
 // static property = way 1
 // class perent{
