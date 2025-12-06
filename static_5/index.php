@@ -36,7 +36,7 @@
 
 // static method = way 1
 // class perent{
-//     public static function wellcome(){
+//    static public function wellcome(){
 //         return  "Well come to Bangladesh";
 //     }
 // }
